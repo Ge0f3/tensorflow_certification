@@ -19,6 +19,8 @@ lib64/
 parts/
 sdist/
 var/
+10_food_classes_10_percent.zip
+10_food_classes_10_percent/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
